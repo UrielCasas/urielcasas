@@ -3,7 +3,7 @@
 My name is Uriel, i'm doing a career in Data Science and Artificial Inteligence in Argentina, and i'm doing personal projects about Web Pages!
 I'm interested in all things Python, Data Science & html!
 
-- 🔭 I’m currently working on [Pagina-Aikido]{https://github.com/UrielCasas/Personal-Projects---Web-Pages}, building a Web Page about Aikido, to promote this Martial Art.
+- 🔭 I’m currently working on [Pagina-Aikido](https://github.com/UrielCasas/Personal-Projects---Web-Pages), building a Web Page about Aikido, to promote this Martial Art.
 - 🌱 I’m currently learning to use Bootstrap in [Página-Aikido] to do faster Web Pages.
 - 🤔 I’m looking for help with tips while using html, css and bootstrap to improve coding and avoid bad habits!
 
