@@ -4,7 +4,7 @@ My name is Uriel, i'm doing a career in Data Science and Artificial Inteligence 
 I'm interested in all things Python, Data Science & html!
 
 - 🔭 I’m currently working on [Pagina-Aikido](https://github.com/UrielCasas/Pagina---Aikido), building a Web Page about Aikido, to promote this Martial Art.
-- 🌱 I’m currently learning to use Bootstrap and JavaScript in [Pagina-Aikido](https://github.com/UrielCasas/Pagina---Aikido) to do faster Web Pages.
+- 🌱 I’m currently learning to use JavaScript in [Pagina-Aikido](https://github.com/UrielCasas/Pagina---Aikido) to do faster Web Pages.
 - 🤔 I’m looking for help with tips while using html, css, JavaScript and Bootstrap to improve coding and avoid bad habits!
   - Send me tips or a mail to urielcasas512@gmail.com
 
