@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Uriel, i'm in my 2nd year of the Data Science and Artificial Inteligence program in Argentina!
+My name is Uriel, i'm in my 2nd year of the Data Science & AI program in Argentina!
 
 I'm interested in all things about programming and database management!
 
