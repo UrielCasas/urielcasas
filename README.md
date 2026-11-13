@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 My name is Uriel, i'm in my 2nd year of the Data Science and Artificial Inteligence program in Argentina!
-I'm interested in all things about program and basedata!
+
+I'm interested in all things about programming and database management!
 
 - 🔭 I’m currently learning on Coursera, about IBM Data Science Certificate!
 <!--- 🌱 I’m currently learning to use JavaScript in [Pagina-Aikido](https://github.com/UrielCasas/Pagina---Aikido) to do dynamic Web Pages.-->
